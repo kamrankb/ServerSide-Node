@@ -1,0 +1,20 @@
+{
+  "name": "node-examples",
+  "version": "1.0.0",
+  "description": "Learning node from Coursera",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kamrankb/ServerSide-Node.git"
+  },
+  "author": "KamranKB",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kamrankb/ServerSide-Node/issues"
+  },
+  "homepage": "https://github.com/kamrankb/ServerSide-Node#readme"
+}
